@@ -16,6 +16,14 @@ A deep learning model to forecast, analize and Categorize the future prices of n
 7. Forecast analysis and Visualization : the complete forecast analysis of all the 50 Nifty stocks are done using Tableau and Power BI reports.
 
 ### Comparative analysis with ARIMA and SARIMAX models : 
+![arima](https://github.com/user-attachments/assets/f0c4962f-6287-47dd-94b0-76d4f5319163)
+  ![sarimax](https://github.com/user-attachments/assets/82c78b80-624a-402a-994d-ac610418c23b)
+
 ### Model Visualization : 
+![viz my_lstm_model h5](https://github.com/user-attachments/assets/2db8af45-e3f5-493e-add3-f42c184689fe)
+
 ### Model Summary : 
+![Screenshot 2024-08-15 153214](https://github.com/user-attachments/assets/56a39415-afa3-4e4f-8ae9-c37c52ced7fc)
+
 ### Accuracy of the model : 
+![accuracy score](https://github.com/user-attachments/assets/8c94c261-9bc7-43b3-85b7-5e45286276df)
